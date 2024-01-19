@@ -25,7 +25,7 @@
 
 .trending-header-right {
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
   align-items: center;
   gap: 8px;
   margin-top: 16px;
